@@ -8,7 +8,7 @@ A full-stack web application that simulates a basic library management system. U
   [Demo Vide](https://youtu.be/0rpyQKfTwRI)
 
 
-## echnologies Used
+## Technologies Used
 
 | Layer       | Tech Stack              | Why Chosen |
 |-------------|-------------------------|------------|
