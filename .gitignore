@@ -1,0 +1,47 @@
+# 🔧 Node modules (backend & frontend)
+node_modules/
+
+# 🔐 Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 🏗 Build output (React frontend)
+frontend/build/
+frontend/dist/
+
+# 📦 Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🧪 Test coverage
+coverage/
+
+# 💻 OS-specific files
+.DS_Store
+Thumbs.db
+
+# 🧠 IDE/editor config
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 📸 Optional uploads or generated assets
+uploads/
+public/assets/
+
+# 🔄 Cache
+.cache/
+frontend/.next/
+frontend/.vercel/
+
+# 🔍 Misc
+*.log
+*.tgz
+*.zip
+*.bak
+*.tmp
